@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnabish123
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on software companies
 - 📫 How to reach me johnabish6@gmail.com
 
